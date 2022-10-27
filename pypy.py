@@ -1,4 +1,4 @@
-"hello world"
+"hello world, ca va"
 import random
 import pygame
 import sys
